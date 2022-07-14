@@ -1,0 +1,31 @@
+#buttonSave {
+  margin-top: 50px;
+}
+
+#container {
+  display: flex;
+}
+
+#left,
+#right {
+  width: 50%;
+  border: solid black thin;
+}
+
+#intro {
+  background-color: black;
+  font-weight: bold;
+  color: white;
+}
+
+button {
+  background-color: antiquewhite;
+  border-radius: 20px;
+  border-right-color: blue;
+
+  font-size: large;
+}
+
+.buttonList {
+  margin-left: 20px;
+}
